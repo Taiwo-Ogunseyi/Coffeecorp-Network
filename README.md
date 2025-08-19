@@ -21,7 +21,7 @@ Select the disk:  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://ibb.co/TBKLpT7k" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/5WYFt9S6/Screenshot-2025-07-31-215338.png" height="80%" width="80%" alt="Screenshot-2025-07-31-215338" border="0">
 <br />
 <br />
 Confirm your selection:  <br/>
