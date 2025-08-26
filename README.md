@@ -12,30 +12,21 @@ Coffeecorp, a rapidly expanding coffee company with locations across the country
 - <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Laying out the setup and the required devices: <br/>
+<img src="https://i.ibb.co/8gRf4TVf/network-setup.png" height="70%" width="70%" alt="network-setup" border="0">
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The configuration phase: <br/>
+<img src="https://i.ibb.co/5WYFt9S6/Screenshot-2025-07-31-215338.png" height="70%" width="70%" alt="Screenshot-2025-07-31-215338" border="0">
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.ibb.co/5WYFt9S6/Screenshot-2025-07-31-215338.png" height="80%" width="80%" alt="Screenshot-2025-07-31-215338" border="0">
+Initiating the process:  <br/>
+<img src="https://i.ibb.co/dJbx6nFP/initiating-the-connection.png" height="70%" width="70%" alt="initiating-the-connection" border="0">
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Network setup completed:  <br/>
+<img src="https://i.ibb.co/7tt7kHGF/completed-network.png" height="70%" width="70%" alt="completed-network" border="0">
 <br />
 <br />
 </p>
-
 
